@@ -73,9 +73,9 @@ Or use VS Code's built-in build and debug features (F5).
 
 ## 👨‍💻 Author
 
-**MdShijanAli**  
-**Student ID**: 2024000010129  
-**University**: Southeast University  
-**Department**: BSc in CSE  
-**Course Code**: CSE242.14  
-**Course Name**: Data Structures Lab
+***Md Shijan Ali***     
+*Student ID*: 2024000010129  
+*University*: Southeast University  
+*Department*: BSc in CSE  
+*Course Code*: CSE242.14  
+*Course Name*: Data Structures Lab
