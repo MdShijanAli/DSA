@@ -18,6 +18,7 @@ DSA/
 ## 📋 Implementations
 
 ### 1. Bubble Sort (`Bubble Sort/bubble-sort.c`)
+
 - **Algorithm**: Bubble Sort
 - **Features**:
   - Ascending order sorting
@@ -26,6 +27,7 @@ DSA/
 - **Time Complexity**: O(n²)
 
 ### 2. Selection Sort (`Selection Sort/slection-sort.c`)
+
 - **Algorithm**: Selection Sort
 - **Features**:
   - Interactive user input for array size and elements
@@ -33,6 +35,7 @@ DSA/
 - **Time Complexity**: O(n²)
 
 ### 3. Insertion Sort (`insertion-sort/insertion-sort.c`)
+
 - **Algorithm**: Insertion Sort
 - **Features**:
   - Descending order sorting
@@ -40,6 +43,7 @@ DSA/
 - **Time Complexity**: O(n²)
 
 ### 4. Combined Demo (`index.c`)
+
 - **Algorithms**: Selection Sort, Insertion Sort (Descending), Bubble Sort (Descending)
 - **Input**: Array `{5, 2, 4, 1, 3}`
 - **Description**: Demonstrates multiple sorting algorithms sequentially
@@ -47,6 +51,7 @@ DSA/
 ## 🚀 How to Run
 
 ### Prerequisites
+
 - GCC compiler (MinGW/MSYS2 on Windows)
 - VS Code with C/C++ extension (optional)
 
@@ -73,7 +78,8 @@ Or use VS Code's built-in build and debug features (F5).
 
 ## 👨‍💻 Author
 
-# **MdShijanAli**  
+# **MdShijanAli**
+
 **Student ID**: 2024000010129  
 **University**: Southeast University  
 **Department**: BSc in CSE  
